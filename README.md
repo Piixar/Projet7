@@ -21,7 +21,13 @@ En ligne de commande faire :
 2- sequelize db:migrate
 ```
 
-##### Execution du code
+##### Mise en place variables environnement
+```
+Crée un fichier .env dans votre dossier racine du projet
+
+1- Ajouter la ligne        JWT_SIGN_SECRET=       avec un code pour la signature du token.
+```
+###### Execution du code
 ```
 En ligne de commande faire : 
 
