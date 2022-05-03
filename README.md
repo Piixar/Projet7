@@ -2,7 +2,7 @@
 
 # reseau-social-app backend
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
