@@ -2,7 +2,7 @@
 
 # reseau-social-app backend
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -13,7 +13,7 @@ renseigner les champs dans le fichier config/config.json avec vos propres param�
 Seule l'option dévelopment est à remplir.
 ```
 
-#### Création de la base de donnée
+### Création de la base de donnée
 ```
 En ligne de commande faire : 
 
@@ -21,13 +21,13 @@ En ligne de commande faire :
 2- npx sequelize-cli db:migrate
 ```
 
-##### Mise en place variables environnement
+### Mise en place variables environnement
 ```
 Crée un fichier .env dans votre dossier racine du projet
 
 1- Ajouter la ligne        JWT_SIGN_SECRET=       avec un code pour la signature du token.
 ```
-###### Execution du code
+### Execution du code
 ```
 En ligne de commande faire : 
 
