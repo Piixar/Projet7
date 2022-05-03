@@ -17,8 +17,8 @@ Seule l'option dévelopment est à remplir.
 ```
 En ligne de commande faire : 
 
-1- sequelize db:create
-2- sequelize db:migrate
+1- npx sequelize-cli db:create
+2- npx sequelize-cli db:migrate
 ```
 
 ##### Mise en place variables environnement
