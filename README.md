@@ -23,7 +23,7 @@ En ligne de commande faire :
 
 ### Mise en place variables environnement
 ```
-Crée un fichier .env dans votre dossier racine du projet
+Créer un fichier .env dans votre dossier racine du projet
 
 1- Ajouter la ligne        JWT_SIGN_SECRET=       avec un code pour la signature du token.
 ```
